@@ -1,8 +1,4 @@
 # pizza_sales_SQL
-Here’s a description for your pizza sales project using SQL:
-
----
-
 # Pizza Sales Management System (SQL-based)
 
 This project is a database-driven system designed to manage and track pizza sales efficiently using SQL. It enables pizza restaurants or businesses to keep track of their sales transactions, customer orders, inventory, and financial data with ease. By leveraging SQL databases, this project focuses on providing a reliable and scalable solution for managing pizza sales.
